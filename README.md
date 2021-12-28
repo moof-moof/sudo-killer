@@ -10,4 +10,6 @@ Usage:
 2. Select menu **File>Solve**.
 3. Behold the returned solution.
 
+&nbsp;
+
 ![sudo-killer1_anim](img/sudo-killer1_anim.gif)
