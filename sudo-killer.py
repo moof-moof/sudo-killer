@@ -18,7 +18,7 @@
 ##
 ## The actual, rather elegant, solving algorithm relied upon in this 
 ## application -- comprising functions possible() and solve() below --
-## was demonstrated by Professor Thorsten Altenkirch in the Computerfile
+## was demonstrated by Professor Thorsten Altenkirch in the Computerphile
 ## episode <https://youtu.be/G_UYXzGuqvM>, and can thus be considered
 ## to be in the public domain.
 ## 
@@ -169,7 +169,7 @@ def get_input():
 
 
 
-## LLLLLLLLLLLLLLLLLLLLLLLL  Solver algoritm  LLLLLLLLLLLLLLLLLLLLLLLLLL
+## LLLLLLLLLLLLLLLLLLLLLLL  Solver algorithm  LLLLLLLLLLLLLLLLLLLLLLLLLL
 
 def possible(y,x,n):
     for i in range(0, 9):
